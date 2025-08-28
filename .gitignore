@@ -1,0 +1,11 @@
+# 시스템 파일
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+Thumbs.db
+
+# 연습용 파일
+
+#.gitignore
+.gitgnore
